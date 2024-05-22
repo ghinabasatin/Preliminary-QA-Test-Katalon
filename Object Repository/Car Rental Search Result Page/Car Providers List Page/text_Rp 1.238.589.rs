@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_Rp 1.238.589</name>
+   <tag></tag>
+   <elementGuidId>71f3774c-8a74-4ce3-bbb2-a2426d9ad0c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[.='Rp 1.238.589']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Rp 1.300.000&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>ec6ccda2-315d-4f97-962c-6f0d0e4bafcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-level</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>011dc01e-7909-401f-9e35-ed962eefddf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>de915529-1af9-42c4-b5de-be8af3d2694f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>heading</value>
+      <webElementGuid>0c7d0aca-747c-4461-a916-5aec1dfae985</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-4rbku5 css-901oao r-t1w4ow r-adyw6z r-b88u0q r-135wba7 r-fdjqy7</value>
+      <webElementGuid>ddb4bf5a-9aab-42d8-adee-057ef249591a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp 1.300.000</value>
+      <webElementGuid>2ac1fb06-f2d2-48a7-8269-ee45411bfe67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-1ihkh82&quot;]/div[@class=&quot;css-1dbjc4n r-1kihuf0 r-169s5xo r-uwe93p r-136ojw6&quot;]/div[@class=&quot;css-1dbjc4n r-1wzrnnt&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-kdyh1x r-da5iq2 r-1ifxtd0 r-1udh08x&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-nsbfu8&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-17s6mgv&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-173mn98&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1h0z5md&quot;]/h2[@class=&quot;css-4rbku5 css-901oao r-t1w4ow r-adyw6z r-b88u0q r-135wba7 r-fdjqy7&quot;]</value>
+      <webElementGuid>600d306f-87b6-47d4-b1ad-e44f17619f24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[5]/div/div[5]/div/div[2]/div/div[2]/div/h2</value>
+      <webElementGuid>0e7fc091-2b57-4290-8781-3181433d6669</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*only for SEWAMOBILMURAH membership card holder'])[1]/following::h2[1]</value>
+      <webElementGuid>413a7a4d-4f07-4d37-9537-d85409d667a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Easy Verification'])[1]/following::h2[1]</value>
+      <webElementGuid>c69df911-5403-430d-90f4-52516ce65309</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='total'])[2]/preceding::h2[1]</value>
+      <webElementGuid>43dc57e1-9dfd-43f3-876c-1be4bfb0690b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 650.000 /day'])[1]/preceding::h2[1]</value>
+      <webElementGuid>155e8c89-b300-484a-b99b-8ad20116fec2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rp 1.300.000']/parent::*</value>
+      <webElementGuid>7dc490e3-dd46-4264-9784-67333d19e740</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/div[2]/div/h2</value>
+      <webElementGuid>62bed646-8f04-47bd-a940-4ccd90967f6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Rp 1.300.000' or . = 'Rp 1.300.000')]</value>
+      <webElementGuid>b2e6bf3a-eb26-4351-9241-51308da798d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

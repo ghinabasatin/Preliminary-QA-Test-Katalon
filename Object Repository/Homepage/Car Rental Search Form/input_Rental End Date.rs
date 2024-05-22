@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Your Rental Location</name>
+   <name>input_Rental End Date</name>
    <tag></tag>
-   <elementGuidId>0f66d855-a157-45f7-8af7-07e14d281d2e</elementGuidId>
+   <elementGuidId>cadc4152-d6e2-4c4e-a7b2-ef19b3199496</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input.css-11aywtz.r-cwxd7f.r-13awgt0.r-t1w4ow.r-ubezar.r-majxgm.r-135wba7.r-bcqeeo.r-1ny4l3l.r-10paoce.r-13n6l4s</value>
+         <key>XPATH</key>
+         <value>//input[@value='26 May 2024']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@value='']</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>[data-testid=&quot;rental-search-form-location-input&quot;]</value>
+         <value>[data-testid=&quot;rental-search-form-date-input-end&quot;]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>bf41cd2b-9823-4afa-bd54-5b42f654d8cb</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Enter city or region</value>
-      <webElementGuid>56ebe90f-5ddd-4c24-9375-99766f50091a</webElementGuid>
+      <webElementGuid>d0d42f94-a4e9-4414-8bc0-a4532fa865d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +36,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>904fc00b-7c7a-477a-8a72-a7ef2f030e07</webElementGuid>
+      <webElementGuid>974383fa-5009-4fec-86e7-e81cb85e042a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +44,7 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>sentences</value>
-      <webElementGuid>594d9a01-6289-4e7d-8b6a-5994b9968046</webElementGuid>
+      <webElementGuid>10014d1e-70fd-4895-9c7d-822988d522d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +52,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>on</value>
-      <webElementGuid>fdf215c0-9a6d-4aa5-b5c2-f96cb7431942</webElementGuid>
+      <webElementGuid>8f0f941e-3759-4a57-acd8-3aed21ca3ca8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +60,7 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>on</value>
-      <webElementGuid>8b55fd99-4e6b-4d96-a012-e9c5330f8a18</webElementGuid>
+      <webElementGuid>64611101-c10c-4176-9a6f-5ffc1223649d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +68,7 @@
       <name>dir</name>
       <type>Main</type>
       <value>auto</value>
-      <webElementGuid>c1508648-b0ea-4278-80d5-5147f30ca01f</webElementGuid>
+      <webElementGuid>b9c29ee7-8b22-4bc5-a5b8-f9d77011e099</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +76,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>ad3a79e3-56cb-4134-82c3-ba388f5cd010</webElementGuid>
+      <webElementGuid>884b2ea0-b437-4e46-970d-5f2a2dbd22b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +84,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>ba38a2c1-1155-4346-acf7-9b01c6ba7592</webElementGuid>
+      <webElementGuid>45382b10-7774-4c36-9315-742b187aefb7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,54 +92,62 @@
       <name>class</name>
       <type>Main</type>
       <value>css-11aywtz r-cwxd7f r-13awgt0 r-t1w4ow r-ubezar r-majxgm r-135wba7 r-bcqeeo r-1ny4l3l r-10paoce r-13n6l4s</value>
-      <webElementGuid>c0fb226a-4900-45f0-8964-ad1795cd5b76</webElementGuid>
+      <webElementGuid>208a7cfa-44c8-4c0e-94b2-24b0eaa46af9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-testid</name>
       <type>Main</type>
-      <value>rental-search-form-location-input</value>
-      <webElementGuid>e5ac472d-2699-4b83-91ec-94e99326dc1b</webElementGuid>
+      <value>rental-search-form-date-input-end</value>
+      <webElementGuid>cc4fdf5d-70de-4896-a552-f1bc98622edf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>26 May 2024</value>
+      <webElementGuid>b0196273-531f-4d2b-a87f-373fb34d2621</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-aoullt r-6koalj r-1wtj0ep r-dg7iqi r-bnwqim r-13qz1uu r-tqpus0&quot;]/div[@class=&quot;css-1dbjc4n r-1ifxtd0 r-1jgb5lz r-1a83bov r-17yavnb&quot;]/div[@class=&quot;css-1dbjc4n r-bnwqim&quot;]/div[@class=&quot;css-1dbjc4n r-1wzrnnt r-6yljno r-bnwqim r-pezta&quot;]/div[@class=&quot;css-1dbjc4n r-kdyh1x r-d045u9 r-xyw6el&quot;]/div[@class=&quot;css-1dbjc4n r-11c0sde r-bztko3 r-bnwqim r-417010&quot;]/div[@class=&quot;css-1dbjc4n r-6koalj r-18u37iz r-12w9sp&quot;]/div[@class=&quot;css-1dbjc4n r-16y2uox r-1wbh5a2 r-1jt293m&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-bnwqim&quot;]/div[@class=&quot;css-1dbjc4n r-1wh2hl7 r-e65k4z r-1q9bdsx r-1e081e0 r-tvv088&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1h0z5md&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-1ufr4wv&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1777fci r-edyy15&quot;]/input[@class=&quot;css-11aywtz r-cwxd7f r-13awgt0 r-t1w4ow r-ubezar r-majxgm r-135wba7 r-bcqeeo r-1ny4l3l r-10paoce r-13n6l4s&quot;]</value>
-      <webElementGuid>9541df58-ffe1-4b73-aa86-aa4e0cba1924</webElementGuid>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-aoullt r-6koalj r-1wtj0ep r-dg7iqi r-bnwqim r-13qz1uu r-tqpus0&quot;]/div[@class=&quot;css-1dbjc4n r-1ifxtd0 r-1jgb5lz r-1a83bov r-17yavnb&quot;]/div[@class=&quot;css-1dbjc4n r-bnwqim&quot;]/div[@class=&quot;css-1dbjc4n r-1wzrnnt r-6yljno r-bnwqim r-pezta&quot;]/div[@class=&quot;css-1dbjc4n r-kdyh1x r-d045u9 r-xyw6el&quot;]/div[@class=&quot;css-1dbjc4n r-11c0sde r-bztko3 r-bnwqim r-417010&quot;]/div[@class=&quot;css-1dbjc4n r-6koalj r-18u37iz r-12w9sp&quot;]/div[@class=&quot;css-1dbjc4n r-16y2uox r-1wbh5a2 r-1jt293m&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-bnwqim&quot;]/div[@class=&quot;css-1dbjc4n r-1wh2hl7 r-e65k4z r-1q9bdsx r-1e081e0 r-tvv088&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1h0z5md&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1777fci r-edyy15&quot;]/input[@class=&quot;css-11aywtz r-cwxd7f r-13awgt0 r-t1w4ow r-ubezar r-majxgm r-135wba7 r-bcqeeo r-1ny4l3l r-10paoce r-13n6l4s&quot;]</value>
+      <webElementGuid>a862ca65-b86e-4c94-9a7c-59ede07f9b45</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@value='']</value>
-      <webElementGuid>148f5111-e078-43d5-894c-51b148a882e6</webElementGuid>
+      <value>//input[@value='26 May 2024']</value>
+      <webElementGuid>85b606cf-8369-4aa9-8e0c-10bd0baef95a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='__next']/div[4]/div[2]/div/div[2]/div/div[3]/div/div/div/div/div[2]/div/div/div/div/div/div/input</value>
-      <webElementGuid>08da3dbe-7a67-4120-9289-32bc22a6210d</webElementGuid>
+      <value>//div[@id='__next']/div[4]/div[2]/div/div[2]/div/div[3]/div/div/div/div/div[2]/div/div[7]/div/div/div/input</value>
+      <webElementGuid>94e24997-7327-4af3-87f8-cee96e1ef231</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>5be22cb2-0ce2-4ef6-90fb-d4d76bd66c80</webElementGuid>
+      <value>//div[7]/div/div/div/input</value>
+      <webElementGuid>26a1290c-24ac-4249-8834-9d7133b49d27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@placeholder = 'Enter city or region' and @type = 'text']</value>
-      <webElementGuid>3c0d8d72-11a2-4c9b-907c-560c97bc7586</webElementGuid>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>a835b7b2-8198-40d2-a0ef-a6efda3c0dd8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

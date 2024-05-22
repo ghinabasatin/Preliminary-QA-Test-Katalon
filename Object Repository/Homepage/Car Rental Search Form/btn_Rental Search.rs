@@ -6,12 +6,11 @@
    <elementGuidId>9d1f0dca-036a-4839-96cb-d64cfb302857</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.css-901oao.r-1awozwy.r-jwli3a.r-6koalj.r-61z16t > svg > path</value>
+         <key>XPATH</key>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value></value>
+         <key>CSS</key>
+         <value>div.css-901oao.r-1awozwy.r-jwli3a.r-6koalj.r-61z16t > svg > path</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>

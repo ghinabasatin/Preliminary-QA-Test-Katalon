@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Car Rental</name>
+   <name>a_Car Rental</name>
    <tag></tag>
    <elementGuidId>352c4318-7769-4a40-8479-ea1cc657e480</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.css-1dbjc4n.r-11mg6pl.r-1h84pjw.r-rs99b7.r-1loqt21.r-18u37iz.r-1pi2tsx.r-ymttw5.r-5njf8e.r-1otgn73.r-lrvibr</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//data-testid=&quot;product-pill-Car Rental&quot;</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-11mg6pl.r-1h84pjw.r-rs99b7.r-1loqt21.r-18u37iz.r-1pi2tsx.r-ymttw5.r-5njf8e.r-1otgn73.r-lrvibr</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>

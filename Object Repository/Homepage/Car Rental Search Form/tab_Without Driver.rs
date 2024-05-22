@@ -6,12 +6,11 @@
    <elementGuidId>cfc07197-0aa3-4d8d-b0cc-905844115aa0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.css-1dbjc4n.r-1awozwy.r-18u37iz.r-1h0z5md > h4.css-4rbku5.css-901oao.r-jwli3a.r-t1w4ow.r-1b43r93.r-b88u0q.r-1cwl3u0.r-fdjqy7</value>
+         <key>XPATH</key>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value></value>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-1awozwy.r-18u37iz.r-1h0z5md > h4.css-4rbku5.css-901oao.r-jwli3a.r-t1w4ow.r-1b43r93.r-b88u0q.r-1cwl3u0.r-fdjqy7</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>

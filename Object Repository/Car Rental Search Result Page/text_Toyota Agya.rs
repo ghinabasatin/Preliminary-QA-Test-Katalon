@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_Toyota Agya</name>
+   <tag></tag>
+   <elementGuidId>7f026889-17a9-4289-931f-5400b281a85d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h3[.='Toyota Agya']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Toyota AgyaAUTOMATIC2 baggages4 seats$/ >> internal:role=heading</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>07d017da-2bec-4ad6-a09c-f2fc4844f0d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-level</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>3fe7d63a-6b33-4023-b5be-e1a47373b6fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>4a9e187d-30a9-471d-ade9-223006eda4f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>heading</value>
+      <webElementGuid>79fea455-4168-4ed1-8ff9-06e61e488749</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-4rbku5 css-901oao css-bfa6kz r-t1w4ow r-ubezar r-b88u0q r-rjixqe r-fdjqy7</value>
+      <webElementGuid>eae5725a-d617-4d7a-8d9a-d75fb0f4c34b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Toyota Agya</value>
+      <webElementGuid>1a48564e-5315-4b47-98b8-8b4f117c1418</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-1ihkh82&quot;]/div[@class=&quot;css-1dbjc4n r-1kihuf0 r-169s5xo r-uwe93p r-136ojw6&quot;]/div[@class=&quot;css-1dbjc4n r-1wzrnnt&quot;]/div[@class=&quot;css-1dbjc4n r-1ihkh82 r-1q2s4rl r-ttdzmv&quot;]/div[@class=&quot;css-1dbjc4n r-150rngu r-eqz5dr r-16y2uox r-1wbh5a2 r-11yh6sk r-1rnoaur r-1sncvnh&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-kdyh1x r-1yos0t3 r-1ifxtd0 r-1udh08x&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-ymttw5 r-95jzfe&quot;]/div[@class=&quot;css-1dbjc4n r-1qhn6m8&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/h3[@class=&quot;css-4rbku5 css-901oao css-bfa6kz r-t1w4ow r-ubezar r-b88u0q r-rjixqe r-fdjqy7&quot;]</value>
+      <webElementGuid>94986eb2-4525-454f-9a38-53af0b2e702f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[5]/div[2]/div[2]/div/div/div[3]/div/div/div[2]/div/h3</value>
+      <webElementGuid>70b9cdd5-c625-4136-abcb-60bc0ba94e9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[3]/following::h3[1]</value>
+      <webElementGuid>daae9e9e-e057-4c0c-9705-f6973f381f16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/day'])[2]/following::h3[1]</value>
+      <webElementGuid>6e13576b-c533-45f0-b8a7-7912d49aba14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AUTOMATIC'])[3]/preceding::h3[1]</value>
+      <webElementGuid>a87800a4-7992-4401-8e27-e35f474cab27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Without Driver'])[5]/preceding::h3[1]</value>
+      <webElementGuid>322a25fe-f2e6-4d07-8de1-219fb7e1b1b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Toyota Agya']/parent::*</value>
+      <webElementGuid>85350a0e-f50f-4258-921d-80f7cf8172a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/h3</value>
+      <webElementGuid>856ecc71-03c2-4b7c-9b05-c2022a6f26b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Toyota Agya' or . = 'Toyota Agya')]</value>
+      <webElementGuid>71b7478f-1091-4453-9d33-c81ce75c00d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

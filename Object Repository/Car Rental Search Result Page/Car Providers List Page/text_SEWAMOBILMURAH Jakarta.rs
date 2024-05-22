@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_SEWAMOBILMURAH Jakarta</name>
+   <tag></tag>
+   <elementGuidId>5a6a9bcf-2893-403d-a9b3-fb4b4f04b7dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h3[.='Moovby Driverless Jakarta']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;SEWAMOBILMURAH Jakarta&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>e69be507-0f31-4b4b-9627-8b2099524dad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-level</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>d65aa317-8b9d-4466-a56a-db16a57ed48b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>d9012964-409e-4938-861f-40dc9513ad9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>heading</value>
+      <webElementGuid>21553a8a-6cfb-49d1-9b97-8e8a9f130f03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-4rbku5 css-901oao css-bfa6kz r-t1w4ow r-ubezar r-b88u0q r-rjixqe r-fdjqy7</value>
+      <webElementGuid>aeeaf5d8-28b0-4ac4-b347-e09e52411422</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SEWAMOBILMURAH Jakarta</value>
+      <webElementGuid>6fadcf16-076f-4476-9cb8-b5a1ea9d8eed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-1ihkh82&quot;]/div[@class=&quot;css-1dbjc4n r-1kihuf0 r-169s5xo r-uwe93p r-136ojw6&quot;]/div[@class=&quot;css-1dbjc4n r-1wzrnnt&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-kdyh1x r-da5iq2 r-1ifxtd0 r-1udh08x&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-nsbfu8&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1h0z5md&quot;]/h3[@class=&quot;css-4rbku5 css-901oao css-bfa6kz r-t1w4ow r-ubezar r-b88u0q r-rjixqe r-fdjqy7&quot;]</value>
+      <webElementGuid>e5125742-cf3f-4d61-abea-0d4ca2e34567</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[5]/div/div[5]/div/div/div/h3</value>
+      <webElementGuid>574c423f-69b1-468d-96bb-25df0c5e789a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/following::h3[1]</value>
+      <webElementGuid>6696274f-85ec-4cc5-a35b-1401193837f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 412.863 /day'])[1]/following::h3[1]</value>
+      <webElementGuid>f6e78e94-53a5-423e-8a28-f6781abc1417</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(33)'])[1]/preceding::h3[1]</value>
+      <webElementGuid>d97db54a-0734-49f2-a9b8-b79d059c8e3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What travelers liked'])[2]/preceding::h3[1]</value>
+      <webElementGuid>7550f37f-553c-4206-869e-11cdf418cb8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SEWAMOBILMURAH Jakarta']/parent::*</value>
+      <webElementGuid>ee11acbf-a0cc-4966-8fbd-d8fff8208ee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/h3</value>
+      <webElementGuid>195f7d9f-64f0-465f-863c-cc2d18a45232</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'SEWAMOBILMURAH Jakarta' or . = 'SEWAMOBILMURAH Jakarta')]</value>
+      <webElementGuid>e8aa1e70-7c63-4e8b-9aed-56720d8d2941</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
