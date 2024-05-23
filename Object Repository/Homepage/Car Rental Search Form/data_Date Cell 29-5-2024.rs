@@ -4,6 +4,7 @@
    <name>data_Date Cell 29-5-2024</name>
    <tag></tag>
    <elementGuidId>139bfc4a-c5f0-4902-b364-8dd0149f397d</elementGuidId>
+   <imagePath></imagePath>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -12,6 +13,14 @@
       <entry>
          <key>CSS</key>
          <value>div.css-1dbjc4n.r-1vjbqqu.r-z2wwpe.r-18u37iz.r-1472mwg.r-13qz1uu > div.css-1dbjc4n.r-1awozwy.r-eqz5dr.r-16y2uox.r-1472mwg.r-1777fci.r-1wyvozj.r-u8s1d.r-70iriu.r-136ojw6 > div.css-901oao.r-cwxd7f.r-t1w4ow.r-1b43r93.r-majxgm.r-rjixqe.r-q4m81j</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@data-testid = 'date-cell-29-5-2024']</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -29,7 +38,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>9b4bd483-04de-46b8-90a8-ab8e9043ee7a</webElementGuid>
+      <webElementGuid>35ceee5e-d576-494a-a36d-e3003d3162ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +46,7 @@
       <name>dir</name>
       <type>Main</type>
       <value>auto</value>
-      <webElementGuid>2be88d46-dd20-4f9f-a231-22350a5f6e24</webElementGuid>
+      <webElementGuid>2582387f-c03b-4a86-9cd3-20cb7f4f65b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>css-901oao r-cwxd7f r-t1w4ow r-1b43r93 r-majxgm r-rjixqe r-q4m81j</value>
-      <webElementGuid>7e14c42f-019c-45bc-8ecb-e1bb1a13db5e</webElementGuid>
+      <webElementGuid>b807e7b7-c9ef-4b93-92e4-53f1baf690d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>29</value>
-      <webElementGuid>c14f1951-d8bf-4842-9fcd-6a18ab7334f0</webElementGuid>
+      <webElementGuid>dfc7ac7e-226d-419b-aa50-ec9fb132ab27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-aoullt r-6koalj r-1wtj0ep r-dg7iqi r-bnwqim r-13qz1uu r-tqpus0&quot;]/div[@class=&quot;css-1dbjc4n r-1ifxtd0 r-1jgb5lz r-1a83bov r-17yavnb&quot;]/div[@class=&quot;css-1dbjc4n r-bnwqim&quot;]/div[@class=&quot;css-1dbjc4n r-1wzrnnt r-6yljno r-bnwqim r-pezta&quot;]/div[@class=&quot;css-1dbjc4n r-kdyh1x r-d045u9 r-xyw6el&quot;]/div[@class=&quot;css-1dbjc4n r-11c0sde r-bztko3 r-bnwqim r-417010&quot;]/div[@class=&quot;css-1dbjc4n r-6koalj r-18u37iz r-12w9sp&quot;]/div[@class=&quot;css-1dbjc4n r-16y2uox r-1wbh5a2 r-1jt293m&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-bnwqim&quot;]/div[@class=&quot;css-1dbjc4n r-1wh2hl7 r-e65k4z r-1q9bdsx r-1e081e0 r-tvv088&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1h0z5md&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-1wh2hl7 r-e65k4z r-b4qz5r r-1udh08x r-u8s1d r-zchlnj&quot;]/div[@class=&quot;css-1dbjc4n r-edyy15&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-150rngu r-18u37iz r-16y2uox r-1wbh5a2 r-lltvgl r-buy8e9 r-mfh4gg r-2eszeu r-1sncvnh&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n r-cpa5s6&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-6413gk r-14hr28s r-c0cves&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-kdyh1x r-1loqt21 r-1777fci r-1otgn73 r-1i6wzkk r-lrvibr&quot;]/div[@class=&quot;css-1dbjc4n r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-1vjbqqu r-z2wwpe r-18u37iz r-1472mwg r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-eqz5dr r-16y2uox r-1472mwg r-1777fci r-1wyvozj r-u8s1d r-70iriu r-136ojw6&quot;]/div[@class=&quot;css-901oao r-cwxd7f r-t1w4ow r-1b43r93 r-majxgm r-rjixqe r-q4m81j&quot;]</value>
-      <webElementGuid>bdbcbc01-d937-4769-ab6f-0bd4d325ca6d</webElementGuid>
+      <webElementGuid>9646afdd-f729-4a99-b1d2-1de8aaf7d746</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +78,7 @@
       <name>data-testid</name>
       <type>Main</type>
       <value>date-cell-29-5-2024</value>
-      <webElementGuid>0074aec3-60bd-4763-8662-8e872b89f8a3</webElementGuid>
+      <webElementGuid>c19b29ea-9331-45ca-9161-d3b589eb013c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div[4]/div[2]/div/div[2]/div/div[3]/div/div/div/div/div[2]/div/div[7]/div/div[2]/div/div/div/div/div/div/div/div/div[3]/div[31]/div/div/div[2]/div[2]/div</value>
-      <webElementGuid>96236ddc-2911-457d-8fb0-01124743a4ba</webElementGuid>
+      <webElementGuid>00110309-fb48-4677-9242-9bd638b95147</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[2]/following::div[75]</value>
-      <webElementGuid>cdcc7e0c-3c67-4142-ba6b-492eb454b766</webElementGuid>
+      <webElementGuid>32de2f79-68d7-4aed-921b-0481b28361a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sun'])[5]/following::div[293]</value>
-      <webElementGuid>3fb2b114-1211-4f1f-adb7-4ce70a3b17c6</webElementGuid>
+      <webElementGuid>67160697-a0d8-464d-8ea0-e4ea7ef4d17b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Labor Day'])[2]/preceding::div[27]</value>
-      <webElementGuid>4fa9fd24-1293-4d5b-899d-821493caa6f1</webElementGuid>
+      <webElementGuid>f87ef95b-e873-438e-bfe8-32195d4b6775</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ascension Day of Jesus Christ'])[2]/preceding::div[31]</value>
-      <webElementGuid>f284aacd-c0b6-4c73-9c49-dc0e74867805</webElementGuid>
+      <webElementGuid>70a6b973-b2a5-4966-bbaa-7410c539f1f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div/div[2]/div/div/div/div/div/div/div/div/div[3]/div[31]/div/div/div[2]/div[2]/div</value>
-      <webElementGuid>bdf5fc16-8087-4135-a1b8-34249990193f</webElementGuid>
+      <webElementGuid>d4403ee4-7833-4bd0-9ec0-ea0c84ff7aff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '29' or . = '29')]</value>
-      <webElementGuid>43e82fbf-9c0d-4939-a655-0fab6a09d24a</webElementGuid>
+      <webElementGuid>cceb62cc-ed7a-4a03-a0e2-c9956177420b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

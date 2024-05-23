@@ -1,3 +1,14 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Homepage/Car Rental Search Form/data_hour",
+      "brokenLocator": "//div[@class\u003d\u0027css-1dbjc4n r-18u37iz r-xyw6el\u0027]//div[@class\u003d\u0027css-1dbjc4n r-391gc0 r-1loqt21 r-1777fci r-tuq35u r-1otgn73 r-1i6wzkk r-lrvibr\u0027]/div[.\u003d\u002710\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Hour\u0027])[1]/following::div[26]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Homepage/Car Rental Search Form/data_hour_neighbor.png"
+    }
+  ]
 }
